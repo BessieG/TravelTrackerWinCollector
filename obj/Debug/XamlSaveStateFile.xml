@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="f:\traveltracker\travel tracker\travel tracker\travel tracker.windowsphone\obj\debug\intermediatexaml\travel tracker.windowsphone.exe" HashGuid="707009df-fdca-3acb-007c-f5c65749edb0" />
+    <ReferenceAssembly PathName="f:\traveltracker\travel tracker\packages\microsoft.data.edm.5.6.4\lib\portable-net45+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="542866d1-034c-4a29-055a-3969aa6de044" />
+    <ReferenceAssembly PathName="f:\traveltracker\travel tracker\packages\microsoft.data.odata.5.6.4\lib\portable-net45+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="35b01c6a-1c5a-af48-56de-eaef4c96115b" />
+    <ReferenceAssembly PathName="f:\traveltracker\travel tracker\packages\windowsazure.storage.6.2.0\lib\wpa\microsoft.windowsazure.storage.dll" HashGuid="42534966-5c34-db9c-7043-2c50b3aaa51b" />
+    <ReferenceAssembly PathName="f:\traveltracker\travel tracker\packages\newtonsoft.json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\newtonsoft.json.dll" HashGuid="a6815119-bde8-2bdd-8acf-133f32c00b94" />
+    <ReferenceAssembly PathName="f:\traveltracker\travel tracker\packages\system.spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\system.spatial.dll" HashGuid="af07efc6-7fe8-d611-3cea-feee0fa1b441" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
